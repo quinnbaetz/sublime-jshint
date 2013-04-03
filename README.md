@@ -24,7 +24,7 @@ The best JavaScript syntax checker: [JSHint](http://www.jshint.com/) for the bes
 
 ##Run JSHint on an active JavaScript file in Sublime Text 2
 
-- `control`-`J` *or Tools/Contextual menus or the Command Palette*
+- `control`-`J` *or Tools/Contextual menus or the Command Palette* Toggles jshint on and off
 - `F4` jump to next error row/column
 - `shift`-`F4` jump to previous error row-column
 
